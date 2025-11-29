@@ -411,3 +411,24 @@
       timezone: Asia/Shanghai # 所在时区（IANA时间标识符）
       date: 2025 年 11 月 2 日 # 人类可读的日期范围
       place: 中国，北京
+
+
+- title: 2026 Google Cloud 出海峰会：AI 驱动，智胜全球
+  description: Google Cloud 主办的出海峰会，聚焦 AI 技术如何助力企业全球化发展。
+  category: conference
+  tags:
+    - Google Cloud
+    - 出海峰会
+    - AI
+    - 云计算
+    - 全球化
+  events:
+    - year: 2026
+      id: google-cloud-outbound-summit-2026
+      link: https://mp.weixin.qq.com/s/8r-2y4Ywhjm2Q0e-B1_pbA
+      timeline:
+        - deadline: '2026-01-01T00:00:00'
+          comment: '活动预计启动时间（具体日期待官方公布）'
+      timezone: Asia/Shanghai
+      date: 2026 年（具体日期待公布）
+      place: 待定（线上或线下形式待通知）
