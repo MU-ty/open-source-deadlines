@@ -411,3 +411,26 @@
       timezone: Asia/Shanghai # 所在时区（IANA时间标识符）
       date: 2025 年 11 月 2 日 # 人类可读的日期范围
       place: 中国，北京
+
+
+- title: 杭州 GDG DevFest 2025
+  description: 由Google发起的年度开发者盛会，涵盖主题演讲、Workshop、AI集市等，聚焦谷歌最新技术与产品体验。
+  category: conference
+  tags:
+    - GDG
+    - DevFest
+    - 开发者大会
+    - AI技术
+    - Google
+  events:
+    - year: 2025
+      id: hangzhou-gdg-devfest-2025
+      link: https://mp.weixin.qq.com/s/RVUEQipG4N7NwHvENKYuxg
+      timeline:
+        - deadline: '2025-11-01T09:00:00'
+          comment: '活动开始'
+        - deadline: '2025-11-01T18:00:00'
+          comment: '活动结束'
+      timezone: Asia/Shanghai
+      date: 2025 年 11 月 1 日
+      place: 余杭区阿里巴巴西溪B区访客中心（7号楼）
